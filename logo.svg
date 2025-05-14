@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="180px" height="60px" viewBox="0 0 180 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Fogaça Consultoria</title>
+    <g id="Logo" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Logo-Group" transform="translate(5.000000, 5.000000)">
+            <path d="M20,0 C31.0457,0 40,8.9543 40,20 C40,31.0457 31.0457,40 20,40 C8.9543,40 0,31.0457 0,20 C0,8.9543 8.9543,0 20,0 Z" id="Background" fill="#E74C3C"></path>
+            <path d="M24.7322,9.1464 L36.7322,19.1464 C37.0679,19.4301 37.0917,19.9367 36.7852,20.2432 L24.7852,32.2432 C24.4513,32.5771 23.8849,32.5382 23.6036,32.1572 C23.3492,31.8106 23.4083,31.3249 23.7464,31.0518 L34.8536,20 L23.7464,8.9482 C23.4083,8.6751 23.3492,8.1894 23.6036,7.8428 C23.8849,7.4618 24.4513,7.4229 24.7852,7.7568 L24.7322,9.1464 Z" id="Arrow1" fill="#FFFFFF" fill-rule="nonzero"></path>
+            <path d="M10,7 L25,7 C25.5523,7 26,7.4477 26,8 C26,8.5523 25.5523,9 25,9 L11,9 L11,31 L25,31 C25.5523,31 26,31.4477 26,32 C26,32.5523 25.5523,33 25,33 L10,33 C9.4477,33 9,32.5523 9,32 L9,8 C9,7.4477 9.4477,7 10,7 Z" id="F-Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+            <polygon id="Line" fill="#FFFFFF" points="18 16 30 16 30 18 18 18"></polygon>
+            <polygon id="Line-Copy" fill="#FFFFFF" points="18 22 26 22 26 24 18 24"></polygon>
+        </g>
+        <text id="FOGAÇA" font-family="Poppins-Bold, Poppins" font-size="24" font-weight="bold" fill="#FFFFFF">
+            <tspan x="52" y="36">FOGAÇA</tspan>
+        </text>
+    </g>
+</svg> 
